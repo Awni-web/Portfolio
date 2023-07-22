@@ -71,7 +71,7 @@
   }
   .text05 {
     color: rgb(203, 57, 49);
-    font-size: 20;
+    font: 20px 'Poppins', sans-serif;;
     text-align: left;
   }
   .container3 {
@@ -84,7 +84,7 @@
   }
   .text06 {
     color: rgb(203, 57, 49);
-    font-size: 12px;
+    font: 12px 'Poppins', sans-serif;
     text-align: left;
   }
   .image {
@@ -105,7 +105,7 @@
   .text11 {
     font-family: 'Poppins';
     color: #cb3931;
-    font-size: 8px;
+    font: 8px 'Poppins', sans-serif;
     text-align: left;
   }
   .blog {
@@ -133,7 +133,7 @@
     left: 0px;
     color: rgb(203, 57, 49);
     position: absolute;
-    font-size: 16px;
+    font: 16px 'Poppins', sans-serif;
     text-align: left;
   }
   .text13 {
@@ -141,7 +141,7 @@
     left: 0px;
     color: #000000;
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -150,7 +150,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -166,7 +166,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -182,7 +182,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 8px;
+    font: 8px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -191,7 +191,7 @@
     left: 0px;
     color: #000000;
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -200,7 +200,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 8px;
+    font: 8px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -220,7 +220,7 @@
     left: 0px;
     color: rgb(203, 57, 49);
     position: absolute;
-    font-size: 16px;
+    font: 16px 'Poppins', sans-serif;
     text-align: left;
   }
   .text30 {
@@ -228,7 +228,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -237,7 +237,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -246,7 +246,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -255,7 +255,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -271,7 +271,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
@@ -287,7 +287,7 @@
     left: 0px;
     color: rgb(0, 0, 0);
     position: absolute;
-    font-size: 10px;
+    font: 10px 'Poppins', sans-serif;
     font-style: italic;
     text-align: left;
   }
